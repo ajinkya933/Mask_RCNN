@@ -1,4 +1,17 @@
 numpy
+image
+kafka-python==2.0.1
+firestore
+opencv-python
+imutils
+rasterio
+google-cloud-logging==1.15.0
+google-cloud-storage
+google-api-python-client
+scipy
+DateTime
+pandas
+imageio
 Cython
 pandas
 scipy
